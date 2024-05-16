@@ -1,4 +1,3 @@
-![](https://imgur.com/Z7VxecM.gif)
 <img src="https://imgur.com/Z7VxecM.gif" width="1000" height="500">
 
 
