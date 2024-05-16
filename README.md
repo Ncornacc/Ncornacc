@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer and Designer
 -----------------------
 
-<img src="https___dev-to-uploads.s3.amazonaws.com_uploads_articles_89zrs9ir7e8d1fzwba3f"/>
+<img src="https://imgur.com/a/iFmuivY">
 
 I've been learning code for almost 8 years now, fowm Highschool all the way to the Codam college passing through the Vrij Universiteit in Amsterdam. I love Videogames and I'm always working on some project or playing some Games to better understand the Mechanics and Systems behind them.
 
