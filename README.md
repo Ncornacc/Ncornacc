@@ -6,12 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer and Designer
 -----------------------
 
-I've been learning code for almost 8 years now, fowm Highschool all the way to the Codam college passing through the Vrij Universiteit in Amsterdam. I love Videogames and I'm always working on some project or playing some Games to better understand the Mechanics and Systems behind them.
+I've been learning code for almost 8 years now, fowm Highschool In Italy all the way to the Codam coding college in Amsterdam, passing through the Vrij Universiteit Amsterdam. Now i came back in Italy and I'm currently at the second year of GameDesign at AIV (Italian Accademy of Videogames). I love Videogames and I'm always working on some project or playing some Games to better understand the Mechanics and Systems behind them.
 
-* 🌍  I'm based in Amsterdam, Netherlands
+* 🌍  I'm based in Varese, Italy
 * ✉️  You can contact me at [niccolocornacchia@icloud.com](mailto:niccolocornacchia@icloud.com)
-* 🚀  I'm currently working on [A full on working shell in C](http://https://github.com/Ncornacc/Minishell)
-* 🧠  I'm learning The Godot Game Engine and how to build a Game Engine from scratch
+* 🚀  I'm currently working on [The Firestarter jam](http://https://github.com/Ncornacc/Firestarterjam)
+* 🧠  I'm learning The Unreal Engine 5 and how to build a Game Engine from scratch
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/Ncornacc" target="_blank" rel="noreferrer"><img
